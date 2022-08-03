@@ -3,7 +3,7 @@ Data Validation &amp; Statistical Analysis - Coffee Futures Price &amp; Quality 
 
 Project aims to determine whether it is a sound business plan to venture into selling premium coffee, because of the growing global demand for coffee consumption. Datasets are obtained from Kaggle and Macrotrends. Data validation and statistical analysis skills in python programming are demonstrated by performing normality checks to segregate data into parametric and non-parametric data, statistical data transformation for non-parametric data, outlier analysis, random sampling, hypothesis and associated test, statistical data transformation, and probability to answer business research questions like “What is the ideal price to purchase coffee?”, “Is coffee grade score distribution similar among countries?”, and “Is coffee price distribution similar among coffee grade scores?”.
 
-Items to download:
+Items to download to run the program:
 1. Data folder (with coffee_price.csv and coffee_quality.csv)
 2. Coffee Futures Price & Quality Analysis.ipynb
 3. my_Functions_cf_clean.py
